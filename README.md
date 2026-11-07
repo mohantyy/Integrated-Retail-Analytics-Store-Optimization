@@ -1,4 +1,3 @@
-# Integrated Retail Analytics for Store Optimization and Demand Forecasting, Store Segmentation, Market Basket Analysis &amp; Gradient Boosted Demand Forecasting — AlmaBetter ML Capstone)
 # Integrated Retail Analytics for Store Optimization and Demand Forecasting
 
 **Author:** Abhilash Mohanty (@mohantyy)
